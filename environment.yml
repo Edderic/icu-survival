@@ -13,3 +13,4 @@ dependencies:
   - pymc3=3.6
   - theano=1.0.4
   - mkl-service=2.0.2
+  - scikit-learn-0.21.2
